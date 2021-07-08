@@ -1,3 +1,7 @@
+var h4 = document.createElement("h4")
+h4.className = "div2"
+h4.innerHTML = "Age Calculator"
+document.body.append(h4)
 var div1 = document.createElement("div")
 div1.setAttribute("id","res")
 div1.className = "div1"
